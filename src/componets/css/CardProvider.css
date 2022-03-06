@@ -1,0 +1,30 @@
+.title {
+    font-size: 20px !important;
+    position: absolute;
+    width: 354px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.card {
+    width: 354px !important;
+    margin: 5px;
+    height: 150px;
+    display: block !important;
+    z-index: 1;
+}
+
+.cardItem {
+    margin: 0 auto;
+    z-index: 1;
+}
+
+.cardSum {
+    font-size: 14px !important;
+    width: 200px;
+    position: absolute;
+    top: 40px;
+    left: 50%;
+    transform: translate(-50%, 100%);;
+}

@@ -1,0 +1,7 @@
+.MuiListItem-button:hover {
+    background-color: rgba(0,206,209, .7) !important;
+}
+
+.isActive {
+    background-color: rgba(0,206,209, .7) !important;
+}
